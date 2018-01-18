@@ -1,2 +1,3 @@
 # try-again
-Attempting to link local and remote
+Attempting to link local and remote  
+Botched it up first time
